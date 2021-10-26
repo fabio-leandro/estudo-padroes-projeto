@@ -7,9 +7,14 @@ Mentor: Venilton Favo Jr
 Link Projeto Original: https://github.com/digitalinnovationone/lab-padroes-projeto-spring
 
 Padrões estudados:
-Singleton;
-Strategy;
+
+
 Facade.
+<dl>
+  <dd>Singleton;</dd>
+  <dd>Strategy;</dd>
+  <dd>Strategy;</dd>
+</dl>
 
 Atualizações em relação ao projeto original:
 Foi criada uma classe de configuração diminuindo um pouco a dependência do framework na regra de negócio;
