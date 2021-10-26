@@ -3,7 +3,7 @@ Aplicação prática de padrões de projeto com Spring Boot.
 
 <b>Projeto proposto em:</b> https://web.digitalinnovation.one
 
-<b>Mentor:</b> Venilton Favo Jr
+<b>Mentor:</b> Venilton Favo Jr <br>
 <b>Link Projeto Original:</b> https://github.com/digitalinnovationone/lab-padroes-projeto-spring
 
 <h4>Padrões estudados:</h4>
